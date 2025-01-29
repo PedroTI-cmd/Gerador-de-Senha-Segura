@@ -11,8 +11,10 @@ Um gerador de senhas fortes e aleatórias desenvolvido em Python. Ideal para cri
 🛠 Tecnologias utilizadas
 Python 3+
 random para geração de senhas
+
 secrets para maior segurança
-CustomTkinter (caso tenha interface gráfica)
+
+CustomTkinter 
 
 📜 Licença
 Este projeto está sob a licença MIT.
